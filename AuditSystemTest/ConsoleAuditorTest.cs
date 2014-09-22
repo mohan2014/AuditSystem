@@ -21,7 +21,7 @@ namespace AuditSystemTest
             IList<string> expected = new List<string> { "First Name", "Id" };
             IList<string> actual = target.CompareObject(obj1, obj2);
 
-            const int expectedCount = 2;
+            const int expectedCount = 3;
             int actualCount = actual.Count;
 
             Assert.AreEqual(expectedCount, actualCount);
