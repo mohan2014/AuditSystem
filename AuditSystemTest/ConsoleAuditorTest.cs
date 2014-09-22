@@ -16,12 +16,12 @@ namespace AuditSystemTest
         {
             var target = new ConsoleAuditor();
             object obj1 = new Employee { Id = 5, FirstName = "David", LastName = "Brown", DateOfBirth = new DateTime (1980,01,31)};
-            object obj2 = new Employee { Id = 7, FirstName = "Tim", LastName = "Brown", DateOfBirth = new DateTime(1980, 01, 30) };
+            object obj2 = new Employee { Id = 7, FirstName = "Tim", LastName = "Brown", DateOfBirth = new DateTime(1980, 01, 31) };
 
             IList<string> expected = new List<string> { "First Name", "Id" };
             IList<string> actual = target.CompareObject(obj1, obj2);
 
-            const int expectedCount = 3;
+            const int expectedCount = 2;
             int actualCount = actual.Count;
 
             Assert.AreEqual(expectedCount, actualCount);
