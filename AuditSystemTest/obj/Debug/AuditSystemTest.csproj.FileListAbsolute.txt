@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\bin\Debug\AuditSystemTest.dll
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\bin\Debug\AuditSystemTest.pdb
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\bin\Debug\AuditSystem.exe
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\bin\Debug\AuditSystem.pdb
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\obj\Debug\AuditSystemTest.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\obj\Debug\AuditSystemTest.dll
+C:\inetpub\wwwroot\AuditSystem\AuditSystemTest\obj\Debug\AuditSystemTest.pdb

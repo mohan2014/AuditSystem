@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\bin\Debug\AuditSystem.exe.config
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\bin\Debug\AuditSystem.exe
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\bin\Debug\AuditSystem.pdb
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\obj\Debug\AuditSystem.exe
+C:\inetpub\wwwroot\AuditSystem\AuditSystem\obj\Debug\AuditSystem.pdb
+C:\Users\veluppillaim\Desktop\AuditSystem\AuditSystem\AuditSystem\bin\Debug\AuditSystem.exe.config
+C:\Users\veluppillaim\Desktop\AuditSystem\AuditSystem\AuditSystem\obj\Debug\AuditSystem.exe
+C:\Users\veluppillaim\Desktop\AuditSystem\AuditSystem\AuditSystem\obj\Debug\AuditSystem.pdb
